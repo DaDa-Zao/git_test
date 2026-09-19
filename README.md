@@ -1,3 +1,4 @@
 # git_test
 任务一：自己的练习仓库
 任务三：在main分支中对README进行再次修改，保留main分支的内容，冲突已解决
+任务四：模拟rebase中出现的冲突，在Task4上修改Task4_test_conflict分支内的文件的同一地方
